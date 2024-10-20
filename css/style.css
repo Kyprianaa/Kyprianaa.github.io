@@ -1,2 +1,13 @@
-img{
+.img-volley{
+	width: 400px;
+	height:540px;
+}
 
+.img-servis{
+	width: 700px;
+	height:580px;
+}
+
+body{
+	overflo: hidden;
+}
